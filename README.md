@@ -13,33 +13,33 @@ The Arab 813 Hackathon is a regional online innovation program created to transf
 
 ---
 
-##Table of Contents
+## Table of Contents
 
-- #overview
-- #about-the-hackathon
-- #objectives
-- #who-this-repository-is-for
-- #repository-structure
-- #challenge-themes
-  - #1-climate-resilience--disaster-recovery
-  - #2-precision-agriculture--crop-intelligence
-  - #3-marine--water-security
-  - #4-blue-carbon--mangrove-health
-  - #5-sustainable-urban-planning
-  - #6-air-quality--atmospheric-monitoring
-- #getting-started
-- #how-to-use-the-notebooks
-  - #data-exploration-notebook
-  - #theme-notebooks
-- #data-resources
-- #platform--tools
-- #recommended-workflow
-- #program-timeline
-- #team-deliverables
-- #mentoring--support
-- #submission-guidance
-- #repository-best-practices
-- #acknowledgements
+- [Overview](#overview)
+- [About the Hackathon](#about-the-hackathon)
+- [Objectives](#objectives)
+- [Who This Repository Is For](#who-this-repository-is-for)
+- [Repository Structure](#repository-structure)
+- [Challenge Themes](#challenge-themes)
+  - [Climate Resilience & Disaster Recovery](#1-climate-resilience--disaster-recovery)
+  - [Precision Agriculture & Crop Intelligence](#2-precision-agriculture--crop-intelligence)
+  - [Marine & Water Security](#3-marine--water-security)
+  - [Blue Carbon & Mangrove Health](#4-blue-carbon--mangrove-health)
+  - [Sustainable Urban Planning](#5-sustainable-urban-planning)
+  - [Air Quality & Atmospheric Monitoring](#6-air-quality--atmospheric-monitoring)
+- [Getting Started](#getting-started)
+- [How to Use the Notebooks](#how-to-use-the-notebooks)
+  - [Data Exploration Notebook](#data-exploration-notebook)
+  - [Theme Notebooks](#theme-notebooks)
+- [Data Resources](#data-resources)
+- [Platform & Tools](#platform--tools)
+- [Recommended Workflow](#recommended-workflow)
+- [Program Timeline](#program-timeline)
+- [Team Deliverables](#team-deliverables)
+- [Mentoring & Support](#mentoring--support)
+- [Submission Guidance](#submission-guidance)
+- [Repository Best Practices](#repository-best-practices)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
