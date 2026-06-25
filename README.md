@@ -851,7 +851,7 @@ For adapted material, prefix with *"Adapted from…"*
 **Arab Satellite 813 Hackathon**  
 An initiative by UAE Space Agency & Space42
 
-*Application deadline: 22 June 2026*
+*Application deadline: 31st July 2026*
 
 [🚀 Apply Now](https://spaceacademy-hackathons.space.gov.ae/register)
 
