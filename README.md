@@ -701,12 +701,13 @@ All submissions are judged across five criteria:
 | Date | Milestone |
 |------|-----------|
 | Mid-May 2026 | Program launch — applications open |
-| **22 June 2026** | ⚠️ **Application deadline** |
-| Early July 2026 | Teams notified, platform and data access granted |
+| **31 July 2026** | ⚠️ **Application deadline** |
+| Early August 2026 | Teams notified, platform and data access granted |
 | July – August 2026 | Summer preparation period |
-| September 2026 | 2-day kickoff + weekly expert lectures begin |
-| **26 October 2026** | **PoC submission deadline** |
-| Early November 2026 | Live presentations — 18 teams, 7 advance to incubation |
+| 24-25 August 2026 | Online kickoff and orientation |
+| September 2026 | 2-day webinar trainings + weekly expert lectures begin |
+| **11 October 2026** | **PoC submission deadline** |
+| Early November 2026 | Live presentations — 20 teams, 7 advance to incubation |
 | November 2026 – January 2027 | Incubation phase (PoC → MVP) |
 | **25 January 2027** | Final MVP submission |
 | February 2027 | Graduation ceremony and awards |
