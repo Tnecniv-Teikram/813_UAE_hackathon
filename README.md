@@ -700,7 +700,7 @@ All submissions are judged across five criteria:
 
 | Date | Milestone |
 |------|-----------|
-| Mid-May 2026 | Program launch — applications open |
+| Early July 2026 | Program launch — applications open |
 | **31 July 2026** | ⚠️ **Application deadline** |
 | Early August 2026 | Teams notified, platform and data access granted |
 | July – August 2026 | Summer preparation period |
@@ -732,7 +732,7 @@ All submissions are judged across five criteria:
 <details>
 <summary><strong>Is this a typical weekend hackathon?</strong></summary>
 
-No. This is a structured, multi-month program running May 2026 → February 2027. It includes a proposal phase, a 10-week PoC development phase with expert lectures and mentoring, competitive selection for incubation, and a 10-week incubation phase producing MVP-level solutions.
+No. This is a structured, multi-month program running July 2026 → February 2027. It includes a proposal phase, a 10-week PoC development phase with expert lectures and mentoring, competitive selection for incubation, and a 10-week incubation phase producing MVP-level solutions.
 
 </details>
 
