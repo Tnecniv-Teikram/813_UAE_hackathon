@@ -107,7 +107,7 @@ The hackathon is designed for **multidisciplinary teams of 3–5 members** from 
 ## 📅 Program Structure & Timeline
 
 ```
-June 2026          Jul 2026          Aug 2026          Sep–Oct 2026       Nov 2026
+June 2026  ->      Jul 2026   ->     Aug 2026    ->   Sep–Oct 2026   ->  Nov 2026
    │                 │                 │                   │                 │
    ▼                 ▼                 ▼                   ▼                 ▼
  Launch &         Application       Teams             PoC Development    Final
@@ -115,18 +115,18 @@ June 2026          Jul 2026          Aug 2026          Sep–Oct 2026       Nov 
  Open             22 July           (up to 20)        + Kickoff          (20 teams)
                                                       + Lectures
                                                       + Mentoring
-                                                                                │
-                                                                Nov 2026 → Feb 2027
-                                                                         │
-                                                                         ▼
-                                                                   Incubation Phase
-                                                                   (7 teams → MVP)
-                                                                         │
-                                                                   Feb 2027
-                                                                         │
-                                                                         ▼
-                                                                  Graduation &
-                                                                  Awards Ceremony
+                                                                               │
+                                                                      Nov 2026 → Feb 2027
+                                                                               │
+                                                                               ▼
+                                                                         Incubation Phase
+                                                                         (7 teams → MVP)
+                                                                               │
+                                                                         Feb 2027
+                                                                               │
+                                                                               ▼
+                                                                        Graduation &
+                                                                        Awards Ceremony
 ```
 
 | Phase | Dates | Description |
